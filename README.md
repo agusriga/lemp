@@ -1,7 +1,7 @@
 # lemp
 nginx mysql php on alpine linux
 
-This repo is based on [`adhocore/phpfpm:8.0`] (https://github.com/adhocore/docker-phpfpm/)
+This repo is based on [`adhocore/phpfpm:8.0`](https://github.com/adhocore/docker-phpfpm/)
 
 ## Usage
 
